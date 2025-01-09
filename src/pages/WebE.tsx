@@ -35,7 +35,7 @@ const WebE = () => {
           <h2 className="text-2xl">50% All Items</h2>
         </div>
       </main>
-      <div> hello</div>
+      <div> h</div>
     </div>
   );
 };
